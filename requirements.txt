@@ -1,0 +1,8 @@
+folium
+requests
+pydeck
+geopandas
+mapclassify
+ipympl
+keplergl
+odfpy
